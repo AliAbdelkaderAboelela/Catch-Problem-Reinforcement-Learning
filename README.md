@@ -10,4 +10,3 @@ This project explores the application of Q-learning with a neural network (NN) a
 
 The Catch Problem involves catching falling objects in a discrete grid. The goal is to train an agent to catch as many objects as possible.
 
-## Getting Started
